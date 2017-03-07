@@ -1,0 +1,39 @@
+.ipt {
+  margin:10px;
+  width:500px;
+  text-align:right;
+}
+
+.name {
+  height:34px;
+  line-height:34px;
+  float:left;
+}
+.input {
+  border-style : solid;
+  border-color : #BBB;
+  border-width : 1px;
+  border-radius: 5px;
+  width:400px;
+  height:30px;
+}
+.alertText {
+  color:#BBB;
+  font-size:14px;
+  text-align:left;
+  position: relative;
+  left:90px;
+  top:3px;
+  margin:0;
+}
+#shuru {
+  color:white;
+  background-color:blue;
+  font-weight:bold;
+  border-style:solid;
+  border-width:0;
+  border-radius:5px;
+  height:34px;
+  width:50px;
+  margin:10px;
+}
